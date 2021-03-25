@@ -1,0 +1,5 @@
+---
+openjdk_version: 8
+openjdk_package: "openjdk-{{ openjdk_version }}-jre"
+openjdk_bin_path: "/usr/lib/jvm/java-{{ openjdk_version }}-openjdk-amd64/jre/bin/java"
+
